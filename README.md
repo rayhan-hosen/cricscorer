@@ -1,4 +1,5 @@
 # CricScorer - Live Cricket Scoring WordPress Plugin
+**For CricScorer Automatic Cricket Live Score Update Plugin Contact With me on LinkedIN : https://www.linkedin.com/in/rayhan-hosen/ **
 
 A smart WordPress plugin that displays live cricket scores, match details, and commentary just using PHP and wordpress ecosystem and compatible with all types of wordpress plugin. Perfect for cricket websites, sports blogs, and news portals. Best Cricket Live scoring script or wordpress plugin. 
 
